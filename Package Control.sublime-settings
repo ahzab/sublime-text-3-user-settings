@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"JavaScript Completions",
+		"jQuery",
+		"Phpcs",
+		"Sass",
+		"SideBarEnhancements"
+	]
+}
