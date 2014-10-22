@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme",
 	"enable_tab_scrolling": false,
 	"folder_exclude_patterns":
 	[
@@ -50,7 +50,7 @@
 	"spacegray_tabs_xlarge": true,
 	"tab_completion": false,
 	"tab_size": 4,
-	"theme": "Spacegray.sublime-theme",
+	"theme": "Spacegray Light.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,

@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<!--=   START ${1}  SECTION =-->
+	<section class="section ${2}">
+        <div class="container">
+            <h1 class="section-title">${3}</h1>
+            <div class="row">
+                <div class="col-md-${4}">
+                </div>
+            </div>
+        </div>
+    </section>
+<!--=   END ${1}   =-->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>com-sec</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.html</scope>
+</snippet>

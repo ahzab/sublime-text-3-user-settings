@@ -2,13 +2,14 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"ColorPicker",
 		"DocBlockr",
 		"Emmet",
 		"JavaScript Completions",
 		"jQuery",
-		"LiveReload",
+		"LESS",
 		"Phpcs",
 		"Sass",
 		"SideBarEnhancements"
